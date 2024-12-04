@@ -1,4 +1,4 @@
-# ESP32 2.8" HMI Display VS-Code/Platform.io Template
+# ESP32 2.8" HMI Display VS-Code/PlatformIO Template
 
 Dieses Projekt bietet eine Vorlage für die Verwendung eines **ESP32 mit einem 2.8" SPI TFT Touchscreen Display (240x320)**. Die Funktionen umfassen:  
 - **Wi-Fi**-Verbindung  
